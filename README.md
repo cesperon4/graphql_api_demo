@@ -2,7 +2,7 @@
 Simple graphql api to be used with azure functions, and runs on Node version 14. 
 
 Description
-Simple graphql api with two models [user, post]. User -> Post = 1 -> Many
+Simple graphql api with two models [user, post]. User -> Post = 1 -> Many.
 Simple fetch and post endpoints structured around User Post relationship.
 
 Apply Migrations
